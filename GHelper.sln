@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GHelperLogic", "GHelperLogi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GHelperTest", "GHelperTest\GHelperTest.csproj", "{B89134EF-8D25-4C14-96F2-F3D70651E3B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePermissionsUtility", "FilePermissionsUtility\FilePermissionsUtility.csproj", "{96AE53D1-9524-4428-BD89-03E3A33863A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilePermissionsUtility", "FilePermissionsUtility\FilePermissionsUtility.csproj", "{96AE53D1-9524-4428-BD89-03E3A33863A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
